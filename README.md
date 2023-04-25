@@ -15,7 +15,8 @@ Chapter 4 - Audio
 Chapter 5 - Textures, Materials & 3D Objects
 - https://github.com/dr-matt-smith/unity-cookbook-2023-ch05-textures-materails-3d-objects
 
-Chapter 6 - 
+Chapter 6
+- (TBC)
 
 Chappter 7 - 2D Animation and Physics
 - https://github.com/dr-matt-smith/unity-cookbook-2023-ch07-2d-anim-physics
