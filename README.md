@@ -1,4 +1,5 @@
-# Unity-2023-Coobook-Fifth-Edition
+# Unity-2023-Cookbook
+Unity 2023 Cookbook
 
 Chapter 1 - UI Basics
 - https://github.com/dr-matt-smith/unity-cookbook-2023-ch01-ui-basics
